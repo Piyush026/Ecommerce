@@ -1,0 +1,138 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="98fd5a07-1b38-4210-9dbd-0e695df87a1a" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+        <option value="HTML File" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1diJXxcGGR31VlHf53oax8Acxbe" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="run.code.analysis.last.selected.profile" value="aDefault" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/ecart/blog/static/blog" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/ecart/shop/templates/shop" />
+      <recent name="$PROJECT_DIR$/ecart/blog/templates/blog" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="checksum" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Ecart" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/ecart/paytm" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/ecart/paytm/checksum.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.checksum" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="98fd5a07-1b38-4210-9dbd-0e695df87a1a" name="Default Changelist" comment="" />
+      <created>1592902023653</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1592902023653</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="UnknownFeatures">
+    <option featureType="com.intellij.fileTypeFactory" implementationName="*.css" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="311" y="58" width="800" height="677" key="#Inspections" timestamp="1593862907610">
+      <screen x="67" y="27" width="1299" height="741" />
+    </state>
+    <state x="311" y="58" width="800" height="677" key="#Inspections/67.27.1299.741@67.27.1299.741" timestamp="1593862907610" />
+    <state x="332" y="101" width="759" height="590" key="#com.intellij.featureStatistics.actions.ShowFeatureUsageStatisticsDialog" timestamp="1594355572705">
+      <screen x="67" y="27" width="1299" height="741" />
+    </state>
+    <state x="332" y="101" width="759" height="590" key="#com.intellij.featureStatistics.actions.ShowFeatureUsageStatisticsDialog/67.27.1299.741@67.27.1299.741" timestamp="1594355572705" />
+    <state x="467" y="267" width="488" height="258" key="ANALYSIS_DLG_com.intellij.analysis.BaseAnalysisAction$1" timestamp="1593513854904">
+      <screen x="67" y="27" width="1299" height="741" />
+    </state>
+    <state x="467" y="267" width="488" height="258" key="ANALYSIS_DLG_com.intellij.analysis.BaseAnalysisAction$1/67.27.1299.741@67.27.1299.741" timestamp="1593513854904" />
+    <state x="499" y="154" width="424" height="484" key="FileChooserDialogImpl" timestamp="1594215126289">
+      <screen x="67" y="27" width="1299" height="741" />
+    </state>
+    <state x="499" y="154" width="424" height="484" key="FileChooserDialogImpl/67.27.1299.741@67.27.1299.741" timestamp="1594215126289" />
+    <state width="1276" height="175" key="GridCell.Tab.0.bottom" timestamp="1594404541600">
+      <screen x="67" y="27" width="1299" height="741" />
+    </state>
+    <state width="1276" height="175" key="GridCell.Tab.0.bottom/67.27.1299.741@67.27.1299.741" timestamp="1594404541600" />
+    <state width="1276" height="175" key="GridCell.Tab.0.center" timestamp="1594404541599">
+      <screen x="67" y="27" width="1299" height="741" />
+    </state>
+    <state width="1276" height="175" key="GridCell.Tab.0.center/67.27.1299.741@67.27.1299.741" timestamp="1594404541599" />
+    <state width="1276" height="175" key="GridCell.Tab.0.left" timestamp="1594404541598">
+      <screen x="67" y="27" width="1299" height="741" />
+    </state>
+    <state width="1276" height="175" key="GridCell.Tab.0.left/67.27.1299.741@67.27.1299.741" timestamp="1594404541598" />
+    <state width="1276" height="175" key="GridCell.Tab.0.right" timestamp="1594404541599">
+      <screen x="67" y="27" width="1299" height="741" />
+    </state>
+    <state width="1276" height="175" key="GridCell.Tab.0.right/67.27.1299.741@67.27.1299.741" timestamp="1594404541599" />
+    <state x="205" y="31" key="SettingsEditor" timestamp="1594439440932">
+      <screen x="67" y="27" width="1299" height="741" />
+    </state>
+    <state x="205" y="31" key="SettingsEditor/67.27.1299.741@67.27.1299.741" timestamp="1594439440932" />
+    <state x="406" y="104" width="611" height="584" key="com.intellij.execution.console.ConsoleHistoryController$MyBrowseAction$1" timestamp="1593850632420">
+      <screen x="67" y="27" width="1299" height="741" />
+    </state>
+    <state x="406" y="104" width="611" height="584" key="com.intellij.execution.console.ConsoleHistoryController$MyBrowseAction$1/67.27.1299.741@67.27.1299.741" timestamp="1593850632420" />
+    <state x="421" y="250" key="com.intellij.ide.util.TipDialog" timestamp="1594571061879">
+      <screen x="67" y="27" width="1299" height="741" />
+    </state>
+    <state x="421" y="250" key="com.intellij.ide.util.TipDialog/67.27.1299.741@67.27.1299.741" timestamp="1594571061879" />
+    <state x="0" y="27" width="863" height="741" key="find.popup" timestamp="1593513686809">
+      <screen x="67" y="27" width="1299" height="741" />
+    </state>
+    <state x="0" y="27" width="863" height="741" key="find.popup/67.27.1299.741@67.27.1299.741" timestamp="1593513686809" />
+    <state x="379" y="89" width="672" height="678" key="search.everywhere.popup" timestamp="1593329027490">
+      <screen x="67" y="27" width="1299" height="741" />
+    </state>
+    <state x="379" y="89" width="672" height="678" key="search.everywhere.popup/67.27.1299.741@67.27.1299.741" timestamp="1593329027490" />
+  </component>
+</project>

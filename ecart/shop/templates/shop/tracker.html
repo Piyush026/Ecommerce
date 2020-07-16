@@ -1,0 +1,60 @@
+{% extends 'shop/basic.html' %}
+{%block tittle%}
+Tracker
+{%endblock%}
+{%block css%}
+.col{
+    width: 50%;
+    margin: 0 auto;
+    text-align:left;
+}
+{%endblock%}
+{%block body%}
+<div class="container">
+  <div class="col">
+    <h2>Track your Order </h2>
+    <form action="/shop/tracker/" method="post">
+      {%csrf_token%}
+  <div class="form-row">
+    <div class="form-group col-md-6">
+      <label for="orderId">Name</label>
+      <input type="text" class="form-control" id="orderId" name="orderId" placeholder="orderId" required="true">
+    </div>
+    <div class="form-group col-md-6">
+      <label for="email">Email</label>
+      <input type="text" class="form-control" id="email" name= "email" placeholder="Email" required="true">
+    </div>
+    <button type="submit" class="btn btn-primary">Track Order</button>
+  </div>
+  </form>
+  </div>
+  <div class="col">
+    <h2>Tracking Details</h2>
+    {% for x in text%}
+    <li class="list-group-item d-flex justify-content-between align-items-center">
+      {{x.text}}
+      <span class="badge badge-primary badge-pill">{{x.time}}</span>
+    </li>
+    {%endfor%}
+    {%if data %}
+    <li class="list-group-item d-flex justify-content-between align-items-center">Sorry bad inputs
+      <span class="badge badge-primary badge-pill"></span>
+    {%endif%}
+
+  </div>
+  <div class="col">
+    <h2> Order Details</h2>
+    {% for x in  jsn%}
+    <li class="list-group-item d-flex justify-content-between align-items-center">
+      {{x.name}}
+      <span class="badge badge-primary badge-pill">{{x.qty}}</span>
+    </li>
+    {%endfor%}
+  </div>
+</div>
+{%endblock%}
+{%block js%}
+<script>
+
+</script>
+{%endblock%}

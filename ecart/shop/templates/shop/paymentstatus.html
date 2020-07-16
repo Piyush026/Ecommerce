@@ -1,0 +1,27 @@
+{%extends 'shop/basic.html'%}
+{%block body%}
+<div class="conatiner">
+<!--    {{response}}-->
+    <div class="col-md-4">
+        <h2> Payment status regarding your order id {{response.ORDERID}} </h2>
+        <h3>Paid Amount: {{response.TXNAMOUNT}} </h3>
+        <h3>Transaction date: {{response.TXNDATE}}</h3>
+
+    </div>
+</div>
+{%endblock%}
+{%block js%}
+<script>
+    let div = document.createElement('div');
+        div.id = 'content';
+        div.innerHTML = 'Transaction Id:<b>{{response.TXNID}}</b>';
+        document.body.appendChild(div);
+        {%if thank%}
+alert("thanks of ordering us.");
+localStorage.clear();
+<!--{% else %}-->
+<!--alert("Your cart is empty")-->
+{%endif%}
+</script>
+{%endblock%}
+<!--{'CURRENCY': 'INR', 'GATEWAYNAME': 'WALLET', 'RESPMSG': 'Txn Success', 'BANKNAME': 'WALLET', 'PAYMENTMODE': 'PPI','MID': 'lEFTkL88232363901160', 'RESPCODE': '01', 'TXNID': '20200710111212800110168563101721130', 'TXNAMOUNT': '2500.00', 'ORDERID': '42', 'STATUS': 'TXN_SUCCESS', 'BANKTXNID': '62799195', 'TXNDATE': '2020-07-10 12:27:28.0'}-->
